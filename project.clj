@@ -43,7 +43,7 @@
                                    ;; Source-maps
                                    :source-map "resources/public/js/app.js.map"
                                    ;; Optimizations:
-                                   :optimizations :whitespace
+                                   :optimizations :none
                                    :pretty-print  true
                                    }}
                       {;; Optional name of the build:
